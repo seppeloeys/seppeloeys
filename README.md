@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @seppeloeys
-- 👀 I’m interested in **Cyber Security**
-- 🌱 I’m currently learning at Howest University of Applied Computer Science
 - 🤝 I’m looking to collaborate with young companies.
 - 📫 How to reach me? You can always mail to seppeloeys@gmail.com
 - ⚡ Co-Founder off Stellarnode VOF
